@@ -1,0 +1,22 @@
+{
+  "name": "am-parse",
+  "collaborators": [
+    "Daniil Novoselov <gudnmail@gmail.com>"
+  ],
+  "description": "Simple library for converting asciimath to other formats",
+  "version": "0.99.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gudn/am-parse"
+  },
+  "files": [
+    "am_parse_bg.wasm",
+    "am_parse.js",
+    "am_parse_bg.js",
+    "am_parse.d.ts"
+  ],
+  "module": "am_parse.js",
+  "types": "am_parse.d.ts",
+  "sideEffects": false
+}
