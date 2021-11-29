@@ -15,6 +15,7 @@
     "am_parse.js",
     "am_parse.d.ts"
   ],
-  "main": "am_parse.js",
-  "types": "am_parse.d.ts"
+  "module": "am_parse.js",
+  "types": "am_parse.d.ts",
+  "sideEffects": false
 }
