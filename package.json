@@ -4,7 +4,7 @@
     "Daniil Novoselov <gudnmail@gmail.com>"
   ],
   "description": "Simple library for converting asciimath to other formats",
-  "version": "0.99.3",
+  "version": "0.99.4",
   "license": "MIT",
   "repository": {
     "type": "git",
